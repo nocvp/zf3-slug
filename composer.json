@@ -4,7 +4,7 @@
   "keywords": [
     "cms",
     "zf3",
-    "base58"
+    "slug"
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
